@@ -1,0 +1,14 @@
+rest\BodyResult.class
+rest\FapUserInfoQo.class
+rest\ShpcBasicService.class
+rest\ShpcBasicImpService.class
+rest\FapApiConfig.class
+rest\OrganizationalUnit.class
+rest\RefreshTokenQo.class
+rest\FapUserInfo.class
+rest\FapUserRoleInfo.class
+rest\FapRequestException.class
+rest\RefreshInfo.class
+rest\FapRoleInfo.class
+rest\OrganizationalUnitRole.class
+rest\Result.class
