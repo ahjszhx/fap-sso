@@ -71,9 +71,28 @@
             <artifactId>jackson-databind</artifactId>
             <version>2.10.3</version>
         </dependency>
-
-
     </dependencies>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/ahjszhx/fap-sso</url>
+        <connection>https://github.com/ahjszhx/fap-sso.git</connection>
+        <developerConnection>https://github.com/ahjszhx</developerConnection>
+    </scm>
+
+    <developers>
+        <developer>
+            <name>Zhanghaixiao</name>
+            <email>ahjszhx@126.com</email>
+            <url>https://github.com/ajszhx</url>
+        </developer>
+    </developers>
 
 
     <repositories>
