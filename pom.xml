@@ -7,6 +7,8 @@
     <groupId>com.github.ahjszhx</groupId>
     <artifactId>fap</artifactId>
     <version>1.0.0</version>
+    <name>fap sso api</name>
+    <description>shpc fap(oauth2 based sso) intergration api </description>
     <build>
         <plugins>
             <plugin>

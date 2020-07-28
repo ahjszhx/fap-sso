@@ -4,8 +4,6 @@
     <list default="true" id="7dca265a-0d2f-404a-8463-0a776ad9cc3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/fap-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/fap-1.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <workItem from="1595839890582" duration="62000" />
       <workItem from="1595839966460" duration="116000" />
       <workItem from="1595840108917" duration="607000" />
-      <workItem from="1595840728131" duration="5215000" />
+      <workItem from="1595840728131" duration="5385000" />
     </task>
     <servers />
   </component>
