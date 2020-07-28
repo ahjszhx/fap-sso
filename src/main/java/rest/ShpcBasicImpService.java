@@ -138,27 +138,45 @@ public class ShpcBasicImpService {
 
     private String getRoleId(String roleType){
         String roleId = "";
-        switch (roleType){
-            case "primaryManager":
-                roleId = fapApiConfig.getPrimaryManager();
-                break;
-            case "minorManager":
-                roleId = fapApiConfig.getMinorManager();
-                break;
-            case "secretary":
-                roleId = fapApiConfig.getSecretary();
-                break;
-                //todo 更新这三个岗位
-            case "groupDiscussion":
-                roleId = fapApiConfig.getSecretary();
-                break;
-            case "recheckManager":
-                roleId = fapApiConfig.getSecretary();
-                break;
-            case "finalManager":
-                roleId = fapApiConfig.getSecretary();
-                break;
+        if(roleType.equals("primaryManager")){
+            roleId = fapApiConfig.getPrimaryManager();
         }
+        else if(roleType.equals("minorManager")){
+            roleId = fapApiConfig.getMinorManager();
+        }
+        else if(roleType.equals("secretary")){
+            roleId = fapApiConfig.getSecretary();
+        }
+        else if(roleType.equals("groupDiscussion")){
+            roleId = fapApiConfig.getSecretary();
+        }
+        else if(roleType.equals("recheckManager")){
+            roleId = fapApiConfig.getSecretary();
+        }
+        else if(roleType.equals("finalManager")){
+            roleId = fapApiConfig.getSecretary();
+        }
+//        switch (roleType){
+//            case "primaryManager":
+//                roleId = fapApiConfig.getPrimaryManager();
+//                break;
+//            case "minorManager":
+//                roleId = fapApiConfig.getMinorManager();
+//                break;
+//            case "secretary":
+//                roleId = fapApiConfig.getSecretary();
+//                break;
+//                //todo 更新这三个岗位
+//            case "groupDiscussion":
+//                roleId = fapApiConfig.getSecretary();
+//                break;
+//            case "recheckManager":
+//                roleId = fapApiConfig.getSecretary();
+//                break;
+//            case "finalManager":
+//                roleId = fapApiConfig.getSecretary();
+//                break;
+//        }
         return roleId;
     }
 

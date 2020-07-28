@@ -9,5 +9,8 @@
         <module name="fap" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fap" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
