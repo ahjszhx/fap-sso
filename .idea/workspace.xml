@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dca265a-0d2f-404a-8463-0a776ad9cc3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fap.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rest/ShpcBasicImpService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rest/ShpcBasicImpService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/BodyResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/BodyResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/FapApiConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/FapApiConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/FapRequestException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/FapRequestException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/FapRoleInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/FapRoleInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/FapUserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/FapUserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/FapUserInfoQo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/FapUserInfoQo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/FapUserRoleInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/FapUserRoleInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/OrganizationalUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/OrganizationalUnit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/OrganizationalUnitRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/OrganizationalUnitRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/RefreshInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/RefreshInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/RefreshTokenQo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/RefreshTokenQo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/ShpcBasicImpService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/ShpcBasicImpService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/ShpcBasicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/ShpcBasicService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fap-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/fap-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +64,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Groovy compiler" />
   </component>
@@ -62,7 +84,8 @@
       <workItem from="1595839890582" duration="62000" />
       <workItem from="1595839966460" duration="116000" />
       <workItem from="1595840108917" duration="607000" />
-      <workItem from="1595840728131" duration="5385000" />
+      <workItem from="1595840728131" duration="6989000" />
+      <workItem from="1595918921772" duration="2987000" />
     </task>
     <servers />
   </component>
@@ -74,25 +97,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="204" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595839342161" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1595839874334">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom" timestamp="1595918901817">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595839874334" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1595839874334">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1595918901817" />
+    <state width="2517" height="282" key="GridCell.Tab.0.center" timestamp="1595918901817">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595839874334" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1595839874334">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="282" key="GridCell.Tab.0.center/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1595918901817" />
+    <state width="2517" height="282" key="GridCell.Tab.0.left" timestamp="1595918901817">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595839874334" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1595839874334">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="282" key="GridCell.Tab.0.left/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1595918901817" />
+    <state width="2517" height="282" key="GridCell.Tab.0.right" timestamp="1595918901817">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595839874334" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1595841125629">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="282" key="GridCell.Tab.0.right/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1595918901817" />
+    <state x="587" y="94" key="SettingsEditor" timestamp="1595918872891">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595841125629" />
+    <state x="587" y="94" key="SettingsEditor/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1595918872891" />
   </component>
 </project>

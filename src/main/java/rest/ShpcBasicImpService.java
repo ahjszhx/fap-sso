@@ -166,7 +166,6 @@ public class ShpcBasicImpService {
 //            case "secretary":
 //                roleId = fapApiConfig.getSecretary();
 //                break;
-//                //todo 更新这三个岗位
 //            case "groupDiscussion":
 //                roleId = fapApiConfig.getSecretary();
 //                break;
